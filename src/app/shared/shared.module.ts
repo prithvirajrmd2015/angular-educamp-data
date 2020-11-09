@@ -7,15 +7,11 @@ import { ButtonModule } from "primeng/button";
 
 @NgModule({
   imports: [
-    CommonModule,
-    BrowserAnimationsModule,
     MenubarModule,
     InputTextModule,
     ButtonModule
   ],
   exports: [
-    CommonModule,
-    BrowserAnimationsModule,
     MenubarModule,
     InputTextModule,
     ButtonModule
